@@ -27,7 +27,7 @@ cryptography==2.8 \
     --hash=sha256:b6759a93e961e5e21e4ac08cf90d3e7a3523f10fbd15d02cf1a47e32020761df
 pycparser==2.19 \
     --hash=sha256:a988718abfad80b6b157acce7bf130a30876d27603738ac39f140993246b25b3
-pycryptodomex==3.9.4 \
+pycryptodomex==3.19.1 \
     --hash=sha256:ba1ef18289edab0e922459aec301d2b0266d852d013e15c22e3ae789d327b0bd \
     --hash=sha256:b13eb31badc12f65078cb561d3ca2d0b289f22dc189a2ce5a3146c8e132092b5 \
     --hash=sha256:017d396f57c3fd496ec5be32428f0f0018706f7e029d21ab8933a2e91a2a5f29 \
