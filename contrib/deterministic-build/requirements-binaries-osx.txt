@@ -51,7 +51,7 @@ psutil==5.8.0 \
 pycparser==2.20 \
     --hash=sha256:7582ad22678f0fcd81102833f60ef8d0e57288b6b5fb00323d101be910e35705 \
     --hash=sha256:2d475327684562c3a96cc71adf7dc8c4f0565175cf86b6d7a404ff4c771f15f0
-pycryptodomex==3.9.9 \
+pycryptodomex==3.19.1 \
     --hash=sha256:15c03ffdac17731b126880622823d30d0a3cc7203cd219e6b9814140a44e7fab \
     --hash=sha256:20fb7f4efc494016eab1bc2f555bc0a12dd5ca61f35c95df8061818ffb2c20a3 \
     --hash=sha256:28ee3bcb4d609aea3040cad995a8e2c9c6dc57c12183dadd69e53880c35333b9 \
